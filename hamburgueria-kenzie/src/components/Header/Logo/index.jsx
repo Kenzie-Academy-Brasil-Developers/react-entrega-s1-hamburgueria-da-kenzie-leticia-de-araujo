@@ -1,11 +1,11 @@
-import logo from "./../../../img-icons/logo.svg";
 import "./style.css";
 
 const Logo = () => {
   return (
-    <div className="Logo-div">
-      <img src={logo} alt="Logo Burguer Kenzie" />
-    </div>
+    <h1 className="Logo">
+      <p>Burguer</p>
+      <span>Shop</span>
+    </h1>
   );
 };
 
