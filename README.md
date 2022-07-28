@@ -1,4 +1,4 @@
-## Kenzie Burguer 🍔
+## Kenzie Shop 🍔
 
 This project is a web page for a hamburger shop. 
 
