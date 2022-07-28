@@ -1,4 +1,4 @@
-## Kenzie Shop 🍔
+## Burguer Shop 🍔
 
 This project is a web page for a hamburger shop. 
 
@@ -20,4 +20,4 @@ Technologies used:
 - React.js
 - APIs
 
-App link: https://hamburgueria-kenzie-kappa.vercel.app/
+App link: https://burguer-shop-pearl.vercel.app/
